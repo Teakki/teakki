@@ -1,3 +1,3 @@
-# TeaKKi
+# teakki
 
-TeaKKi Open source
+teakki open source
